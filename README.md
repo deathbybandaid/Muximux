@@ -1,3 +1,10 @@
+# phpinfo meets muximux,,, just something I tossed together on the work of others.
+
+# All real praise goes to Tenzinn3 and Mescon
+
+
+
+
 # Muximux - Lightweight HTPC portal
 
 [![Join the chat at https://gitter.im/mescon/Muximux](https://badges.gitter.im/mescon/Muximux.svg)](https://gitter.im/mescon/Muximux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
