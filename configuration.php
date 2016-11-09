@@ -6,7 +6,7 @@
 </style>
 <style type="text/css">
 <!--
-body{background-image: url(http://localhost/phpinfo//images/landing-bg.jpg);}
+body{background-image: url(http://localhost/phpinfo/images/landing-bg.jpg);}
 -->
 </style>
 </head>
