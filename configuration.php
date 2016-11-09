@@ -6,7 +6,7 @@
 </style>
 <style type="text/css">
 <!--
-body{background-image: url(http://deathbybandaid.ddns.net/errorpages/landing-bg.jpg);}
+body{background-image: url(http://localhost/errorpages/landing-bg.jpg);}
 -->
 </style>
 </head>
